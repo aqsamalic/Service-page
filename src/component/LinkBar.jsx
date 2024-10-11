@@ -164,6 +164,7 @@ const Hero = () => {
               </div>
 
               {/* Column 2: Image content */}
+              {/* added comment  */}
               <div className='block w-full'>
                 {slide.imgSrc && (
                   <img
